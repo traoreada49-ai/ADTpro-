@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">ADT Pro</string>
+    <string name="app_badge">ПРОФ СЕТЬ</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="tab_chats">Чаты</string>
+    <string name="tab_status">Статусы</string>
+    <string name="tab_channels">Каналы</string>
+    <string name="tab_calls">Звонки</string>
+    
+    <!-- Filters & Search -->
+    <string name="action_search">Поиск</string>
+    <string name="search_placeholder">Поиск контактов и сообщений...</string>
+    <string name="no_chats_found">Чаты не найдены</string>
+    <string name="filter_all">Все</string>
+    <string name="filter_unread">Непрочитанные</string>
+    <string name="filter_groups">Группы</string>
+    <string name="filter_channels">Каналы</string>
+    <string name="filter_favorites">Избранные</string>
+    
+    <!-- Menu Items -->
+    <string name="menu_new_group">Новая группа</string>
+    <string name="menu_new_channel">Новый канал</string>
+    <string name="menu_new_broadcast">Новая рассылка</string>
+    <string name="menu_starred_messages">Избранные сообщения</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_language">Язык приложения</string>
+    
+    <!-- Chat & Messaging -->
+    <string name="type_message">Введите сообщение...</string>
+    <string name="status_online">В сети</string>
+    <string name="status_last_seen">Был(а) недавно</string>
+    <string name="msg_forwarded">Переслано</string>
+    <string name="msg_voice">Голосовое сообщение</string>
+    <string name="msg_photo">Фото</string>
+    <string name="msg_video">Видео</string>
+    <string name="msg_sticker">Стикер</string>
+    <string name="msg_reply">Ответить</string>
+    <string name="recording_audio">Запись голосового сообщения...</string>
+    <string name="cancel_recording">Проведите для отмены</string>
+    <string name="clear_chat">Очистить историю</string>
+    <string name="delete_chat">Удалить чат</string>
+    <string name="encrypted_notice">Сообщения и звонки защищены сквозным шифрованием. Никто посторонний не может их прочитать.</string>
+    
+    <!-- Statuses -->
+    <string name="my_status">Мой статус</string>
+    <string name="add_status">Добавить статус</string>
+    <string name="tap_to_add_status">Нажмите, чтобы поделиться историей на 24ч</string>
+    <string name="recent_updates">Недавние обновления</string>
+    <string name="viewed_updates">Просмотренные</string>
+    <string name="write_status">Напишите статус...</string>
+    <string name="reply_to_status">Ответить на статус...</string>
+    <string name="send_reply">Отправить ответ</string>
+    
+    <!-- Channels -->
+    <string name="create_channel">Создать канал</string>
+    <string name="channel_name">Название канала</string>
+    <string name="channel_desc">Описание и цели</string>
+    <string name="follow_channel">Подписаться</string>
+    <string name="following">Вы подписаны</string>
+    <string name="subscribers">подписчиков</string>
+    <string name="verified_channel">Проверенный канал</string>
+    
+    <!-- Calls -->
+    <string name="voice_call">Аудиозвонок</string>
+    <string name="video_call">Видеозвонок</string>
+    <string name="new_call">Новый звонок</string>
+    <string name="calling">Вызов...</string>
+    <string name="incoming_call">Входящий звонок...</string>
+    <string name="call_ended">Звонок завершен</string>
+    <string name="mute_mic">Выкл. микрофон</string>
+    <string name="speaker">Динамик</string>
+    <string name="missed_call">Пропущенный звонок</string>
+    <string name="outgoing_call">Исходящий звонок</string>
+    
+    <!-- Groups & Contacts -->
+    <string name="create_group">Новая группа</string>
+    <string name="group_name">Название группы</string>
+    <string name="select_participants">Выберите участников</string>
+    <string name="contacts_list">Контакты ADT Pro</string>
+    <string name="invite_friend">Пригласить друга</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Настройки ADT Pro</string>
+    <string name="language_setting">Язык приложения</string>
+    <string name="select_language_title">Выберите язык</string>
+    <string name="current_language">Текущий язык</string>
+    <string name="appearance_theme">Внешний вид и Тема</string>
+    <string name="dark_mode">Темная тема</string>
+    <string name="light_mode">Светлая тема</string>
+    <string name="chat_wallpaper">Обои для чатов</string>
+    <string name="privacy_security">Конфиденциальность и Безопасность</string>
+    <string name="privacy_options">Параметры приватности</string>
+    <string name="end_to_end_encryption">Сквозное шифрование</string>
+    <string name="telecom_network">Сеть и Операторы связи</string>
+    <string name="network_optimization_desc">ADT Pro оптимизирует передачу данных для операторов Orange, Moov, Telecel и мировых сетей.</string>
+    <string name="data_saver">Экономия мобильного трафика</string>
+    <string name="qr_code_title">Мой QR-код ADT Pro</string>
+    
+    <!-- Auth Flow -->
+    <string name="auth_phone_title">Регистрация и Вход</string>
+    <string name="auth_phone_subtitle">Введите номер телефона для получения бесплатного SMS-кода подтверждения.</string>
+    <string name="phone_input_hint">Номер телефона</string>
+    <string name="btn_continue">Продолжить</string>
+    <string name="auth_otp_title">Подтверждение по SMS</string>
+    <string name="auth_otp_subtitle">Введите 6-значный код из SMS-сообщения.</string>
+    <string name="btn_verify">Подтвердить код</string>
+    <string name="resend_sms">Отправить SMS повторно</string>
+    <string name="free_sms_notice">Бесплатное SMS предоставлено вашим оператором связи.</string>
+    <string name="auto_fill_code">Автозаполнение</string>
+    <string name="auth_profile_title">Профиль компании</string>
+    <string name="auth_profile_subtitle">Заполните данные вашего профиля для завершения регистрации в ADT Pro.</string>
+    <string name="first_name_hint">Имя</string>
+    <string name="last_name_hint">Фамилия</string>
+    <string name="business_category_hint">Сфера деятельности</string>
+    <string name="bio_hint">О себе / Статус</string>
+    <string name="btn_finish">Войти в ADT Pro</string>
+</resources>

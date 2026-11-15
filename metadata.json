@@ -1,0 +1,6 @@
+{
+  "name": "ADT Pro",
+  "description": "Application de messagerie et de diffusion en direct type TikTok Live & WhatsApp : Directs autorisés chiffrés WebRTC avec cadeaux virtuels animés, likes interactifs, battles PK, filtres de beauté IA, suggestions de réponses contextuelles Firebase AI, sauvegarde chiffrée AES-256 sur Firebase Storage, sélecteur haute performance vs économie d'énergie et appels audio/vidéo E2EE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

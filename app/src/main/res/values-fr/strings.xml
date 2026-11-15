@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">ADT Pro</string>
+    <string name="app_badge">RÉSEAU PRO</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="tab_chats">Discussions</string>
+    <string name="tab_status">Statuts</string>
+    <string name="tab_channels">Chaînes</string>
+    <string name="tab_calls">Appels</string>
+    
+    <!-- Filters & Search -->
+    <string name="action_search">Rechercher</string>
+    <string name="search_placeholder">Rechercher contacts, messages...</string>
+    <string name="no_chats_found">Aucune discussion trouvée</string>
+    <string name="filter_all">Tous</string>
+    <string name="filter_unread">Non lus</string>
+    <string name="filter_groups">Groupes</string>
+    <string name="filter_channels">Chaînes</string>
+    <string name="filter_favorites">Favoris</string>
+    
+    <!-- Menu Items -->
+    <string name="menu_new_group">Nouveau groupe</string>
+    <string name="menu_new_channel">Nouvelle chaîne</string>
+    <string name="menu_new_broadcast">Nouvelle diffusion</string>
+    <string name="menu_starred_messages">Messages importants</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="menu_language">Langue de l\'application</string>
+    
+    <!-- Chat & Messaging -->
+    <string name="type_message">Écrire un message...</string>
+    <string name="status_online">En ligne</string>
+    <string name="status_last_seen">Vu récemment</string>
+    <string name="msg_forwarded">Transféré</string>
+    <string name="msg_voice">Message vocal</string>
+    <string name="msg_photo">Photo</string>
+    <string name="msg_video">Vidéo</string>
+    <string name="msg_sticker">Autocollant</string>
+    <string name="msg_reply">Répondre</string>
+    <string name="recording_audio">Enregistrement vocal en cours...</string>
+    <string name="cancel_recording">Glisser pour annuler</string>
+    <string name="clear_chat">Effacer l\'historique</string>
+    <string name="delete_chat">Supprimer la discussion</string>
+    <string name="encrypted_notice">Messages et appels chiffrés de bout en bout. Personne en dehors de cette discussion ne peut les lire.</string>
+    
+    <!-- Statuses -->
+    <string name="my_status">Mon statut</string>
+    <string name="add_status">Ajouter un statut</string>
+    <string name="tap_to_add_status">Appuyez pour partager une actualité 24h</string>
+    <string name="recent_updates">Mises à jour récentes</string>
+    <string name="viewed_updates">Mises à jour vues</string>
+    <string name="write_status">Écrivez votre statut...</string>
+    <string name="reply_to_status">Répondre au statut...</string>
+    <string name="send_reply">Envoyer la réponse</string>
+    
+    <!-- Channels -->
+    <string name="create_channel">Créer une chaîne</string>
+    <string name="channel_name">Nom de la chaîne</string>
+    <string name="channel_desc">Description &amp; objectifs</string>
+    <string name="follow_channel">Suivre la chaîne</string>
+    <string name="following">Abonné(e)</string>
+    <string name="subscribers">abonnés</string>
+    <string name="verified_channel">Chaîne certifiée</string>
+    
+    <!-- Calls -->
+    <string name="voice_call">Appel audio</string>
+    <string name="video_call">Appel vidéo</string>
+    <string name="new_call">Nouvel appel</string>
+    <string name="calling">Appel en cours...</string>
+    <string name="incoming_call">Appel entrant...</string>
+    <string name="call_ended">Appel terminé</string>
+    <string name="mute_mic">Muet</string>
+    <string name="speaker">Haut-parleur</string>
+    <string name="missed_call">Appel manqué</string>
+    <string name="outgoing_call">Appel sortant</string>
+    
+    <!-- Groups & Contacts -->
+    <string name="create_group">Nouveau groupe</string>
+    <string name="group_name">Nom du groupe</string>
+    <string name="select_participants">Sélectionner les participants</string>
+    <string name="contacts_list">Contacts ADT Pro</string>
+    <string name="invite_friend">Inviter sur ADT Pro</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Paramètres ADT Pro</string>
+    <string name="language_setting">Langue de l\'application</string>
+    <string name="select_language_title">Choisir la langue</string>
+    <string name="current_language">Langue actuelle</string>
+    <string name="appearance_theme">Apparence &amp; Thème</string>
+    <string name="dark_mode">Mode Sombre</string>
+    <string name="light_mode">Mode Clair</string>
+    <string name="chat_wallpaper">Fond d\'écran des discussions</string>
+    <string name="privacy_security">Confidentialité &amp; Sécurité</string>
+    <string name="privacy_options">Options de confidentialité</string>
+    <string name="end_to_end_encryption">Chiffrement de bout en bout</string>
+    <string name="telecom_network">Réseau &amp; Opérateurs Télécoms</string>
+    <string name="network_optimization_desc">ADT Pro optimise les flux data pour Orange, Moov Africa et Telecel.</string>
+    <string name="data_saver">Économiseur de données mobiles</string>
+    <string name="qr_code_title">Mon QR Code ADT Pro</string>
+    
+    <!-- Auth Flow -->
+    <string name="auth_phone_title">Inscription &amp; Connexion</string>
+    <string name="auth_phone_subtitle">Entrez votre numéro pour recevoir votre code d\'activation SMS gratuit.</string>
+    <string name="phone_input_hint">Numéro de téléphone</string>
+    <string name="btn_continue">Continuer</string>
+    <string name="auth_otp_title">Validation du code SMS</string>
+    <string name="auth_otp_subtitle">Entrez le code à 6 chiffres reçu par SMS.</string>
+    <string name="btn_verify">Vérifier le code</string>
+    <string name="resend_sms">Renvoyer le code SMS</string>
+    <string name="free_sms_notice">Service SMS gratuit pris en charge par votre opérateur.</string>
+    <string name="auto_fill_code">Remplissage automatique</string>
+    <string name="auth_profile_title">Profil Professionnel</string>
+    <string name="auth_profile_subtitle">Complétez vos informations pour finaliser votre compte ADT Pro.</string>
+    <string name="first_name_hint">Prénom</string>
+    <string name="last_name_hint">Nom de famille</string>
+    <string name="business_category_hint">Secteur d\'activité</string>
+    <string name="bio_hint">Biographie / Présentation</string>
+    <string name="btn_finish">Accéder à ADT Pro</string>
+</resources>
